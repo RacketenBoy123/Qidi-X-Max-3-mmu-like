@@ -27,7 +27,7 @@ Before you print or install anything, be sure to install FreeDi and the matching
 A disclaimer before you start: the AMS riser, toolhead, filament cutter, Samla box filament holder, and nozzle wiper are all from different creators. Most of these files I edited and changed to make them work better, but please still support the original creators. All of the original links are in the folders as a text file or in this installation guide. Thanks.
 
 The first step is printing the needed adapters and hardware. I recommend printing these parts all in either ABS or ASA to make them more heat resistant.
-If you don’t know how to proceed at any step, please look at the included pictures or message me.
+If you don’t know how to proceed at any step, please look at the included pictures or message me. Included pictures are in the /assets/images folder and named after what they might help with assembling. 
 Go through the stl_files folder and download the following STL files and print them the amount stated below:
 
 
