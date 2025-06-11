@@ -32,7 +32,7 @@ If you dont know how to proceed at any step please look at the included pictures
 Go through the stl_files folder and download the following stl files and print them the amount stated below:
 
 
-**Ams Riser**
+## Ams Riser
 
 1. 1x 4-way_splitter-flat.stl
 2. 1x xmax-mmu-lf.stl
@@ -44,7 +44,7 @@ Go through the stl_files folder and download the following stl files and print t
 After printing the needed hardware for the riser, go through the "732980-x-max-3-automatic-multi-material-riser-ec3e07c0-a392-4935-88c6-fceb8f445ebd.pdf" or click this [Link](https://www.printables.com/model/732980-x-max-3-automatic-multi-material-riser/files) to see how to assamble the printed pieces. For that push the heatset insers into the designed holes on the side of the riser pieces with an solder iron.
 
 
-**MCU Holder**
+## MCU Holder
 
 1. 1x Back_Spool_Holder_Adapter.stl
 2. 1x MCU_Holder v2.stl
@@ -57,7 +57,7 @@ Before this step, be sure to power off the printer. Now you just need to open th
 After that make shure to close everything back up, power on the printer and configure the SKR Pico via ssh [Tutorial](https://www.youtube.com/watch?v=hfD1LAOoBJc).
 
 
-**Toolhead**
+## Toolhead
 
 This segment contain a replacement for the toolheadcover, to make it more accessible, and a filament cutter that replaces the stock filament guide and adds a place for a knife blade. The stl files also contain a "Cutter_Stop.stl" which is a plug to push into one of the wholes in the front of the chassie, which when equipped with a heatset insert and a srew, will push the filament cutter in and cut the filament when needed.
 
@@ -79,14 +79,14 @@ After that tale the "Filament_cutter_arm.stl", place a small knife blade into th
 After that you can optionally install the magnetic printhead cover. For that follow this [Link](https://www.printables.com/model/952804-filament-cutter-for-x-plussmartmax-3-toolhead).
 
 
-**Poop Bucket**
+## Poop Bucket
 
 1. 1x Bucket_Filament.stl
 
 To install this, slide it into the flat steel at the back of the printer (internally) and follow the included pictures.
 
 
-**Nozzle Wiper**
+## Nozzle Wiper
 
 1. 1x Wipe_arm.stl
 2. 1x Wipe_clamp.stl
@@ -94,10 +94,13 @@ To install this, slide it into the flat steel at the back of the printer (intern
 Follow the included pictures and this [Link](https://www.printables.com/model/722217-qidi-x-max-3-nozzle-scrub-holder)
 
 
-**Filament Storage**
+## Filament Storage
 
 1. 2x Ikea_box_holder.stl
 2. 1x to 4x angled_feeder_outside_m6_for_greater_gap.stl
+
+Optional:
+
 3. 2x PVC_Adapter.stl (Optional)
 4. 3x Spool Trenner.stl (Optional for 33mm diameter PVC Pipe only)
 5. samla_clips.stl (Optional)
