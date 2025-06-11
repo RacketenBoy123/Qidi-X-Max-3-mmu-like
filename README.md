@@ -75,9 +75,11 @@ Before you now place in the replacement, make sure to screw in one of the fittin
 Now place the "Filament_cutter.stl" onto the printhead; the square pillar should align with the square cutout right beneath the filament inlet.
 After that, take the "Filament_cutter_arm.stl", place a small knife blade into the slot on the side, with the hole at one end facing up. After that, take the arm and align the hole at one end with the further back hole of the "Filament_cutter.stl" and put a screw through both of these. Now take the spring and place it on the sideways hole on the "Filament_cutter.stl", the small hole that doesn’t go through and points towards the "Filament_cutter_arm.stl". After that, take another screw and place it in the other hole on the "Filament_cutter.stl" as a stop for the "Filament_cutter_arm.stl" so it doesn’t open too wide.
 
+![Printhead_2](https://github.com/user-attachments/assets/1a51c996-59f1-4b15-bea3-7bf37f9cd834)
+
 At the end put a heat-set insert in the  "Cutter_Stop.stl", put a screw in the insert and let it stick out about 25mm and then push the block in the square hole at the end of the light strip, with the srew further to the top.
 
-(Stop_1)[/assets/images/Stop_1.jpg]
+![Stop_1](https://github.com/user-attachments/assets/88e39223-ea54-45d5-b39f-c957716f62e2)
 
 After that, you can optionally install the magnetic printhead cover. For that, follow this [Link](https://www.printables.com/model/952804-filament-cutter-for-x-plussmartmax-3-toolhead).
 
@@ -85,6 +87,8 @@ After that, you can optionally install the magnetic printhead cover. For that, f
 ### Poop Bucket
 
 1. 1x Bucket_Filament.stl
+
+![Bucket_3](https://github.com/user-attachments/assets/3313671b-0a14-4e39-aca4-a3b73abe4a86)
 
 To install this, slide it into the flat steel at the back of the printer (internally) and follow the included pictures.
 
@@ -94,7 +98,7 @@ To install this, slide it into the flat steel at the back of the printer (intern
 1. 1x Wipe_arm.stl
 2. 1x Wipe_clamp.stl
 
-(Wiper_1)[/assets/images/Wiper_1.jpg]
+![Wiper_1](https://github.com/user-attachments/assets/b66817f8-82fd-45c5-8e31-cb8e2a4183b0)
 
 Follow the included pictures and this [Link](https://www.printables.com/model/722217-qidi-x-max-3-nozzle-scrub-holder)
 
@@ -109,5 +113,7 @@ Optional:
 3. 2x PVC_Adapter.stl (Optional)
 4. 3x Spool Trenner.stl (Optional for 33mm diameter PVC Pipe only)
 5. samla_clips.stl (Optional)
+
+![Samla_1](https://github.com/user-attachments/assets/4088078d-d6ad-4876-bd78-3f4300d83510)
 
 Follow this [Link](https://www.thingiverse.com/thing:1752874)
