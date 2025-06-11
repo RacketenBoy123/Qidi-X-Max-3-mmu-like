@@ -6,6 +6,7 @@
 
 # Hardware needed
  As of the hardware side you only need:
+
     1. 1 x Bigtreetech SKR Pico
     2. 1 to 4 Nema 17 (E series) Motors (Recommended: [Nema 17 Motors](https://www.amazon.de/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title))
     2.1 1 to 4 longer dupont cables 
@@ -27,6 +28,7 @@ The first step is printing the needed adapters and hardware.
 Go through the stl_files folder and download the following stl files and print them the amount stated below:
 
 1. Ams Riser
+
 1x 4-way_splitter-flat.stl
 1x xmax-mmu-lf.stl
 1x xmax-mmu-lr.stl
@@ -37,6 +39,7 @@ Go through the stl_files folder and download the following stl files and print t
 After printing the needed hardware for the riser, go through the "732980-x-max-3-automatic-multi-material-riser-ec3e07c0-a392-4935-88c6-fceb8f445ebd.pdf" or click this [Link](https://www.printables.com/model/732980-x-max-3-automatic-multi-material-riser/files) to see how to assamble the printed pieces. For that push the heatset insers into the designed holes on the side of the riser pieces with an solder iron.
 
 2. MCU Holder
+
 1x Back_Spool_Holder_Adapter.stl
 1x MCU_Holder v2.stl
 1x ams_cover.stl (Optional)
