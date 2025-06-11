@@ -8,8 +8,7 @@
 As of the hardware side you only need:
 
 1. 1 x Bigtreetech SKR Pico
-2. 1 to 4 Nema 17 (E series) Motors (Recommended: [Nema 17 Motors](https://www.amazon.de/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title))
-2.1 1 to 4 longer dupont cables 
+2. 1 to 4 Nema 17 (E series) Motors (Recommended: [Nema 17 Motors](https://www.amazon.de/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title)) and 1 to 4 longer dupont cables 
 3. 1 to 4 Extruders with mounting hardware (Recommended: [Dual drive extruder](https://www.amazon.de/dp/B0865SLWQ5?ref=ppx_yo2ov_dt_b_fed_asin_title))
 4. PTFE Tubing and fittings (Recommended: [5m PTFE tuning and fittings](https://www.amazon.de/FULARR%C2%AE-Professionell-Teflonrohr-Fitting-Verbinder/dp/B07R9JXQF4/ref=sr_1_26?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SBDBWJSZR1MG&dib=eyJ2IjoiMSJ9.Jenjyhu5zRrNzp9kz3MHe8qOatKZwjhqRLRJnPKSWHxhBQ0qgppRghjO32BWphyT9NebFXynXLC66PK71bzVECucnrxg4sjhDzP6UxV0qtZlodXNcX_QxvVEPF248UnVuGGKND7N5GI1WTaMLljy9b2asiCG5c6yNXTcNL-nvsGYTUkmw1ReUUjn1G8AwaMmoe1yvJa-Dc0_pY9qHIWlbAG_K3n0YeIDoy5-YtGEFUXgY3mWD1Ux8LTqD_L14_42H1-rvkmftmQEpe6EbTrs23NZjB3h-orzqJ0lubBEkzo.9yMlFL-osIWTJ43IJvhn0VmoFHn0bqrM6Tg0ho1lEXM&dib_tag=se&keywords=ptfe+schlauch&qid=1749646232&sprefix=ptfe+schlauch%2Caps%2C161&sr=8-26))
 5. 16 M3 Heated inserts and 16 M3x7mm screws
