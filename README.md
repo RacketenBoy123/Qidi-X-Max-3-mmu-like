@@ -28,7 +28,7 @@ Before you print or install anything, be sure to install FreeDi and the matching
 The first step is printing the needed adapters and hardware.
 Go through the stl_files folder and download the following stl files and print them the amount stated below:
 
-1. Ams Riser
+**Ams Riser**
 
 1. 1x 4-way_splitter-flat.stl
 2. 1x xmax-mmu-lf.stl
@@ -39,7 +39,7 @@ Go through the stl_files folder and download the following stl files and print t
 
 After printing the needed hardware for the riser, go through the "732980-x-max-3-automatic-multi-material-riser-ec3e07c0-a392-4935-88c6-fceb8f445ebd.pdf" or click this [Link](https://www.printables.com/model/732980-x-max-3-automatic-multi-material-riser/files) to see how to assamble the printed pieces. For that push the heatset insers into the designed holes on the side of the riser pieces with an solder iron.
 
-2. MCU Holder
+**MCU Holder**
 
 1. 1x Back_Spool_Holder_Adapter.stl
 2. 1x MCU_Holder v2.stl
