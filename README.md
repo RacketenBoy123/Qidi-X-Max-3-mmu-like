@@ -5,7 +5,7 @@
  I also recommend for you to upgrade the internal emmc module to a 32gb one.
 
 # Hardware needed
- As of the hardware side you only need:
+As of the hardware side you only need:
 
 1. 1 x Bigtreetech SKR Pico
 2. 1 to 4 Nema 17 (E series) Motors (Recommended: [Nema 17 Motors](https://www.amazon.de/dp/B0B93PNYCP?ref=ppx_yo2ov_dt_b_fed_asin_title))
@@ -15,6 +15,7 @@
 5. 16 M3 Heated inserts and 16 M3x7mm screws
 
 Optional
+
 6. 1 x Ikea Samla 22L box [Link](https://www.ikea.com/de/de/p/samla-box-mit-deckel-transparent-s69440822/#content)
 7. Sealing for the Samla box
 8. 1 x PVC Pipe, 36mm diamater and 35cm length
@@ -30,15 +31,10 @@ Go through the stl_files folder and download the following stl files and print t
 1. Ams Riser
 
 1x 4-way_splitter-flat.stl
-
 1x xmax-mmu-lf.stl
-
 1x xmax-mmu-lr.stl
-
 1x xmax-mmu-rf.stl
-
 1x xmax-mmu-rr.stl
-
 8x mmu-xmax_joiner-clip-x8-v1.stl
 
 After printing the needed hardware for the riser, go through the "732980-x-max-3-automatic-multi-material-riser-ec3e07c0-a392-4935-88c6-fceb8f445ebd.pdf" or click this [Link](https://www.printables.com/model/732980-x-max-3-automatic-multi-material-riser/files) to see how to assamble the printed pieces. For that push the heatset insers into the designed holes on the side of the riser pieces with an solder iron.
