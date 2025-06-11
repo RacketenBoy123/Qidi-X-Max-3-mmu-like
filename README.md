@@ -90,6 +90,8 @@ To install this, slide it into the flat steel at the back of the printer (intern
 1. 1x Wipe_arm.stl
 2. 1x Wipe_clamp.stl
 
+!(Wiper_1)[/assets/images/Wiper_1.jpg]
+
 Follow the included pictures and this [Link](https://www.printables.com/model/722217-qidi-x-max-3-nozzle-scrub-holder)
 
 
