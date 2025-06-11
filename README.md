@@ -77,7 +77,7 @@ After that, take the "Filament_cutter_arm.stl", place a small knife blade into t
 
 At the end put a heat-set insert in the  "Cutter_Stop.stl", put a screw in the insert and let it stick out about 25mm and then push the block in the square hole at the end of the light strip, with the srew further to the top.
 
-!(Stop_1)[/assets/images/Stop_1.jpg]
+(Stop_1)[assets/images/Stop_1.jpg]
 
 After that, you can optionally install the magnetic printhead cover. For that, follow this [Link](https://www.printables.com/model/952804-filament-cutter-for-x-plussmartmax-3-toolhead).
 
@@ -94,7 +94,7 @@ To install this, slide it into the flat steel at the back of the printer (intern
 1. 1x Wipe_arm.stl
 2. 1x Wipe_clamp.stl
 
-!(Wiper_1)[/assets/images/Wiper_1.jpg]
+(Wiper_1)[assets/images/Wiper_1.jpg]
 
 Follow the included pictures and this [Link](https://www.printables.com/model/722217-qidi-x-max-3-nozzle-scrub-holder)
 
