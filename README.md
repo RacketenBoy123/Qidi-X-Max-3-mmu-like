@@ -120,3 +120,13 @@ Optional:
 ![Samla_1](https://github.com/user-attachments/assets/4088078d-d6ad-4876-bd78-3f4300d83510)
 
 Follow this [Link](https://www.thingiverse.com/thing:1752874)
+
+
+
+
+
+
+
+
+Carto mount: PC
+Rest: abs
