@@ -1,4 +1,4 @@
-# Qidi-X-Max-3 mmu-like pipooo
+# Qidi-X-Max-3 mmu-like pipoo
  A fan-made MMU/AMS-like system for the Qidi X Max 3
  It is fully created in G-code and uses the FreeDi replacement system for the Qidi printer as a base. For instructions on how to install FreeDi, go here: : [FreeDi](https://github.com/Phil1988/FreeDi/tree/master)
 
